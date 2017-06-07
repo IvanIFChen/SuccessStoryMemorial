@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "305793232998",
+    "firebase_url": "https://successstorymemorial2017.firebaseio.com",
+    "project_id": "successstorymemorial2017",
+    "storage_bucket": "successstorymemorial2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305793232998:android:f901eab2d244630d",
+        "android_client_info": {
+          "package_name": "com.usmartcareer.successstorymemorial2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305793232998-c6abbi29ij3jkovm0r6r3g86rr92ned0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSwqSo9tCp5vN_2F976vaHyLrHWux2iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
