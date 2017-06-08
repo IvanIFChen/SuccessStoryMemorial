@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">2017主顧榮譽書院</string>
+    <string name="app_name">主顧榮譽書院</string>
 
     <string name="title_activity_ssfront">SSFrontActivity</string>
     <string name="title_activity_special_card">SpecialCardActivity</string>
